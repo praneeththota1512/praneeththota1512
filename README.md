@@ -1,9 +1,35 @@
-## 💫 About Me:
-oftware Engineer specializing in AI systems, LLM applications, Retrieval-Augmented Generation (RAG), and intelligent automation. Passionate about designing scalable software that transforms complex ideas into impactful products. Open to collaboration, innovation, and lifelong learning.
+<div align="center">
+  <img src="assets/banner.png" width="100%" alt="Header Banner" />
+  
+  <br/>
+  
+  # Hey 👋 What's Up? I'm Praneeth
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Automation+Architect;RAG+%26+Intelligent+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thotapraneeth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praneeththota1512@gmail.com)# 💻 Tech Stack:
+## 💫 About Me
+I'm a **Software Engineer** specializing in AI systems, LLM applications, Retrieval-Augmented Generation (RAG), and intelligent automation. I am passionate about designing scalable, high-performance software that transforms complex ideas into impactful, user-centric products. Open to collaboration, innovation, and lifelong learning.
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/thotapraneeth" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:praneeththota1512@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+# 💻 Tech Stack
 
 ### ⚙️ Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -26,29 +52,57 @@ oftware Engineer specializing in AI systems, LLM applications, Retrieval-Augment
 ### 🎨 Design & Game Development
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praneeththota1512&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
+  <br/>
   <img src="https://streak-stats.demolab.com/?user=praneeththota1512&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeththota1512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-### 🏆 GitHub Trophies
+<br/>
+
+### 📈 Weekly Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praneeththota1512&theme=react-dark&bg_color=0D1117&color=A970FF&line=A970FF&point=A970FF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+### 🏆 GitHub Achievements & Trophies
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=praneeththota1512&theme=dracula" alt="GitHub Trophies" />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=praneeththota1512&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+### 🎮 Contribution Snake Game
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+### 🔝 Top Contributed Repositories
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=praneeththota1512&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=praneeththota1512&icon=9&color=0)](https://visitcount.itsvg.in)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
-</picture>
 
+<div align="center">
+  Visitor Count:<br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=praneeththota1512&icon=9&color=0" alt="Visitor Count" />
+  </a>
+</div>
