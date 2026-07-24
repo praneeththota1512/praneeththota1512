@@ -38,7 +38,7 @@ oftware Engineer specializing in AI systems, LLM applications, Retrieval-Augment
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/trophy-output/trophy.svg" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=praneeththota1512&theme=dracula" alt="GitHub Trophies" />
 </div>
 
 ### 🔝 Top Contributed Repo
