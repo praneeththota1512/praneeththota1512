@@ -56,47 +56,43 @@ I'm a **Software Engineer** specializing in AI systems, LLM applications, Retrie
 
 # 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=praneeththota1512&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=praneeththota1512&theme=dark&hide_border=true" height="155" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praneeththota1512&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="155" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-contributor-stats.vercel.app/api?username=praneeththota1512&limit=5&theme=dark&combine_all_yearly_contributions=true" height="155" alt="Top Contributed Repos" />
+</p>
+
+<br/>
+
+### 📈 Weekly Activity Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praneeththota1512&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=praneeththota1512&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeththota1512&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praneeththota1512&theme=react-dark&bg_color=0D1117&color=A970FF&line=A970FF&point=A970FF&area=true&hide_border=true" height="260" alt="Contribution Graph" />
 </div>
 
 <br/>
 
-### 📈 Weekly Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praneeththota1512&theme=react-dark&bg_color=0D1117&color=A970FF&line=A970FF&point=A970FF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-### 🏆 GitHub Achievements & Trophies
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=praneeththota1512&theme=dracula" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-### 🎮 Contribution Snake Game
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
-### 🔝 Top Contributed Repositories
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=praneeththota1512&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
+<table border="0" align="center" width="100%">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
+      <h4>🏆 achievements & trophies</h4>
+      <img src="https://github-profile-trophies.vercel.app/?username=praneeththota1512&theme=dracula" height="130" alt="GitHub Trophies" />
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <h4>🎮 contribution snake game</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" height="130" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
