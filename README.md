@@ -77,28 +77,19 @@ I'm a **Software Engineer** specializing in AI systems, LLM applications, Retrie
 
 <br/>
 
-<table border="0" align="center" width="100%">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <h4>🏆 achievements & trophies</h4>
-      <img src="https://github-profile-trophies.vercel.app/?username=praneeththota1512&theme=dracula" height="130" alt="GitHub Trophies" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <h4>🎮 contribution snake game</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" height="130" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
-
+### 🏆 Achievements & Trophies
 <div align="center">
-  Visitor Count:<br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=praneeththota1512&icon=9&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://github-profile-trophies.vercel.app/?username=praneeththota1512&theme=dracula" alt="GitHub Trophies" />
 </div>
+
+<br/>
+
+### 🎮 Contribution Snake Game
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/praneeththota1512/praneeththota1512/output/github-snake.svg" />
+  </picture>
+</div>
+
